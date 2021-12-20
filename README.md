@@ -8,4 +8,4 @@ this is a demo  for sharing idea around communication
 * three
 
 ### Gist
-Example of [my code] (https://gist.github.com/AairaZahid/c78db43b6471ab9a08aced0fd0626458)
+Example of [my code](https://gist.github.com/AairaZahid/c78db43b6471ab9a08aced0fd0626458)
